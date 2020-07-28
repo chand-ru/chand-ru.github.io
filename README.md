@@ -1,2 +1,1 @@
-# chand-ru.github.io
-About Me
+### Hi there 👋
